@@ -17,5 +17,5 @@ node server.js
 ```
 npm run dev
 ```
-> Remarque: J'ai ajouter les dossiers node-modules pour faciliter l'execution des projet.
-> Remarque: Se sont des projet de test.
+> Remarque: J'ai ajouter les dossiers node-modules pour faciliter l'execution des projets.
+> Remarque: Se sont des projets de test.
